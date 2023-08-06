@@ -27,5 +27,6 @@ contract ErrorHandling {
 
         // Fails and gives error message when amount value is less then zero and revert back to previous state.
             assert(amount >= 0);
+            return amount;
     }
 }
