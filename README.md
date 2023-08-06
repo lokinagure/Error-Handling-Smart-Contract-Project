@@ -79,8 +79,6 @@ if(num1 == 0 || num2 == 0){
     </a>
   </div>
 
-https://www.loom.com/share/a08b1cafe5ad4d359def255dc5ef58c9?sid=be125113-bf7f-4bbd-b3ed-a17466d015aa
-
 ## Authors
 
 lokeshkumar nagure
