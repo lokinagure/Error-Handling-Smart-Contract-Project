@@ -67,6 +67,21 @@ if(num1 == 0 || num2 == 0){
 ```
   assert(amount == 0);
 ```
+
+# Video: Code Walktrough
+
+Error Handling in Solidity: A Code Walkthrough 👨‍💻 - Watch Video
+
+<div>
+    <a href="https://www.loom.com/share/a08b1cafe5ad4d359def255dc5ef58c9">
+      <p>Error Handling in Solidity: A Code Walkthrough 👨‍💻 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a08b1cafe5ad4d359def255dc5ef58c9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a08b1cafe5ad4d359def255dc5ef58c9-with-play.gif">
+    </a>
+  </div>
+
+https://www.loom.com/share/a08b1cafe5ad4d359def255dc5ef58c9?sid=be125113-bf7f-4bbd-b3ed-a17466d015aa
 ## Authors
 
 lokeshkumar nagure
