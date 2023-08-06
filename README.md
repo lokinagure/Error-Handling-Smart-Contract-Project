@@ -3,13 +3,13 @@ Developing a smart contract that implements the require(), assert() and revert()
 
 
 ## Description
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. A <em>ErrorHandling.sol</em> is a contract name. It has three functions each one is handling error by three different types of error handling available in solidity.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. A ErrorHandling.sol is a contract name. It has three functions each one is handling error by three different types of error handling available in solidity.
 This program serves as a simple and straightforward introduction to Error Handling Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 ## Getting Started
-### <em>Executing program
+### Executing program
 
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.</em>
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., ErrorHandling.sol). Copy and paste the following code into the file:
 ```// SPDX-License-Identifier: MIT
